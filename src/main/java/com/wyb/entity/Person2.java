@@ -1,12 +1,9 @@
 package com.wyb.entity;
 
-import java.io.Serializable;
-
 /**
  * Created by wuyb3 on 2018/4/28.
  */
-public class Person implements Serializable {
-    private static final long serialVersionUID = 8170456065113471845L;
+public class Person2 {
     private String name;
     private int age;
 
