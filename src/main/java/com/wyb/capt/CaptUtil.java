@@ -78,7 +78,7 @@ public class CaptUtil {
 
 	public static void main(String[] args) {
 		String url = "https://zefannuo.tmall.com/?spm=a220o.1000855.1997427721.d4918089.55e9577e8rpPUm";
-		String filePath="D:/pico/test2.jpg";
+		String filePath="D:/pico/test3.jpg";
 		captByPath(url,filePath);
 	}
 }
